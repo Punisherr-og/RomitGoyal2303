@@ -20,7 +20,7 @@ I am a software engineering undergraduate at **MANIT, Bhopal**, focused on build
 
 - 🎯 **Targeting:** Software Development Engineer (SDE I), Full-Stack Developer, and Backend Engineer roles at product-driven engineering companies.
 - 💡 **Core Interests:** System Architecture, Database Optimization, Microservices, and High-Performance Problem Solving.
-- 🏆 **DSA Milestones:** Solved **100+ problems** across competitive programming platforms focusing on Trees, Graphs, Dynamic Programming, and Recursion.
+- 🏆 **DSA Milestones:** Solved **600+ problems** across competitive programming platforms focusing on Trees, Graphs, Dynamic Programming, and Recursion.
 - 🏅 **Leadership:** Recipient of the **Best Event Manager Award** at *Aaroha*, MANIT Chapter.
 
 ---
