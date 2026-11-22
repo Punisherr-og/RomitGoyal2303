@@ -8,7 +8,7 @@ B.Tech in Electronics & Communication Engineering · **Maulana Azad National Ins
 [![GitHub](https://img.shields.io/badge/GitHub-RomitGoyal2303-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RomitGoyal2303)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-romigoyal2004@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romigoyal2004@gmail.com)
-[![DSA Milestones](https://img.shields.io/badge/DSA-100+_Problems_Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](#-engineering-practice--metrics)
+[![DSA Milestones](https://img.shields.io/badge/DSA-600+_Problems_Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](#-engineering-practice--metrics)
 
 </div>
 
