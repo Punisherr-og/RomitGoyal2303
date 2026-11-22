@@ -17,7 +17,7 @@ I build reliable full-stack applications, scalable backend systems, and data-dri
 
 - 🎓 **Undergraduate at MANIT, Bhopal** (Electronics & Communication Engineering) with strong foundations in Data Structures, Algorithms, Object-Oriented Design, and DBMS.
 - 💻 **Full-Stack & Backend Engineering:** Building high-throughput REST APIs, relational and NoSQL database architectures, and type-safe user interfaces.
-- 🏆 **Problem Solving:** Solved **100+ DSA problems** across LeetCode & HackerRank focusing on Trees, Graphs, Dynamic Programming, and Recursion.
+- 🏆 **Problem Solving:** Solved **1000+ DSA problems** across LeetCode & HackerRank focusing on Trees, Graphs, Dynamic Programming, and Recursion.
 - 🏅 **Leadership:** Recipient of the **Best Event Manager Award** at *Aaroha*, MANIT Chapter.
 - 🎯 **Looking for:** Software Development Engineer (SDE), Full-Stack Developer, and Backend Engineer roles and internships.
 
