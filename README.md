@@ -1,9 +1,16 @@
+<div align="center">
+
 # Romit Kumar
 
-**Software Engineer | Full-Stack & Backend Systems**  
-B.Tech in Electronics and Communication Engineering · **Maulana Azad National Institute of Technology (MANIT), Bhopal**
+**Software Development Engineer (SDE) | Full-Stack & Distributed Backend Systems**  
+B.Tech in Electronics & Communication Engineering · **Maulana Azad National Institute of Technology (MANIT), Bhopal**
 
-[GitHub](https://github.com/RomitGoyal2303) · [Email](mailto:romigoyal2004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/)
+[![GitHub](https://img.shields.io/badge/GitHub-RomitGoyal2303-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RomitGoyal2303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-romigoyal2004@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romigoyal2004@gmail.com)
+[![DSA Milestones](https://img.shields.io/badge/DSA-100+_Problems_Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](#-engineering-practice--metrics)
+
+</div>
 
 ---
 
@@ -66,7 +73,7 @@ Databases & Data Analytics
 #### 4. [Medical Insurance Cost Prediction — ML Regression Benchmark](https://github.com/RomitGoyal2303/Medical-Insurance-Cost-Prediction)
 > **Stack:** Python · Scikit-learn · Pandas · NumPy · Seaborn · Jupyter
 - Benchmarked Linear Regression, Decision Trees, and Random Forest Ensembles on actuarial patient records.
-- Achieved **$R^2 = 0.8355$** and an optimal test MAE of **$2,757.58** with Random Forest bagging, diagnosing and overcoming severe single-tree overfitting.
+- Achieved **$R^2 = 0.8355$** and an optimal test MAE of **$2,757.58$** with Random Forest bagging, diagnosing and overcoming severe single-tree overfitting.
 
 ---
 
